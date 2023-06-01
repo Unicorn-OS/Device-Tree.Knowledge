@@ -11,3 +11,5 @@ https://www.devicetree.org/specifications/
 
 # wiki
 - https://linux-sunxi.org/Device_Tree
+- https://elinux.org/Device_Tree_Reference
+- 
