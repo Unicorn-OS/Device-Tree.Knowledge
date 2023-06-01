@@ -1,3 +1,9 @@
+# wiki
+- https://linux-sunxi.org/Device_Tree
+- https://elinux.org/Device_Tree_Reference
+- https://elinux.org/Device_Tree_Usage
+
+
 sch: https://www.youtube.com/results?search_query=Device+tree+for+Dummies
 
 # Presentation:
