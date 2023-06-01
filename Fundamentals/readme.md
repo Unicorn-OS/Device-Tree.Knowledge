@@ -4,9 +4,9 @@
 - https://elinux.org/Device_Tree_Usage
 
 
-sch: https://www.youtube.com/results?search_query=Device+tree+for+Dummies
-
 # Presentation:
+sch: https://www.youtube.com/results?search_query=Device+tree+for+Dummies
+- @31:45 [A tour of the ARM architecture and its Linux support](https://youtu.be/NNol7fRGo2E?t=1905)
 - [Device Tree: hardware description for everybody !](https://youtu.be/Nz6aBffv-Ek)
 - [Brief introduction to the Device Tree on GNU/Linux](https://youtu.be/_Z65pqLSMi8)
 - [Device Tree 101 10:00 AM UTC+1 session](https://youtu.be/a9CZ1Uk3OYQ)
